@@ -30,7 +30,7 @@ IL11 receptor,Q14626,P40189,,,True,False,False,,False,True,Cytokine receptor IL6
 IL12,P29459,P29460,,,False,False,True,"Cytokine receptor IL6 family, IL12 subfamily",True,False,,False,False,,1f45,TRUE,IL12A;IL12B,
 IL12 receptor,P42701,Q99665,,,True,False,False,,False,True,"Cytokine receptor IL6 family, IL12 subfamily",False,False,,,FALSE,,"Associated with IL12RB2 it forms a functional, high affinity receptor for IL12"
 IL13 receptor,P78552,P24394,,,True,False,False,,False,True,"Cytokine receptor IL2 family, IL4 subfamily",False,False,,3bpo,binding,IL13;IL13RA1;IL4R,Together with IL4RA can form a functional receptor for IL13
-IL15 receptor,P14784,P31785,,,True,False,False,,False,True,Cytokine receptor IL2 family,False,False,,4gs7,TRUE,IL15;IL15RA;IL2RB;IL2RG,"The interleukin-15 receptor IL15R is a heterotrimer of IL15RA, IL2RB and IL2RG."
+IL15 receptor,P14784,Q13261,,,True,False,False,,False,True,Cytokine receptor IL2 family,False,False,,4gs7,TRUE,IL15;IL15RA;IL2RB;IL2RG,"The interleukin-15 receptor IL15R is a heterotrimer of IL15RA, IL2RB and IL2RG."
 IL17 AF,Q16552,Q96PD4,,,False,False,True,Cytokine,True,False,,False,False,,,FALSE,,
 IL17 receptor AB,Q96F46,Q9NRM6,,,True,False,False,,False,True,Cytokine receptor IL17 family,False,False,,,FALSE,,
 IL17 receptor AC,Q96F46,Q8NAC3,,,True,False,False,,False,True,Cytokine receptor IL17 family,False,False,,,FALSE,,NA; the heterodimer binds IL17AF
