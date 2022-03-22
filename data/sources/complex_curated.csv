@@ -240,7 +240,7 @@ a6b1 complex,P05556,P23229,,,TRUE,FALSE,FALSE,,FALSE,FALSE,,TRUE,FALSE,,,FALSE,,
 PODXL complex,O00592,O14745,,,TRUE,FALSE,FALSE,,FALSE,FALSE,,FALSE,TRUE,Migration,,FALSE,,Interacts (via the PDZ 1 domain) with PODXL (via the C-terminal PDZ-binding motif DTHL); the interaction take place early in the secretory pathway and is necessary for its apical membrane sorting (By similarity).
 GMCSFR,P32927,P15509,,,TRUE,FALSE,FALSE,,FALSE,TRUE,Cytokine receptor IL3 family,FALSE,FALSE,,4nkq,binding,CSF2;CSF2RA;CSF2RB,Heterodimer of an alpha and a beta subunit.
 CNTN6PTPRA complex,Q9UQ52,P18433,,,TRUE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,,,FALSE,,NB-3 (contactin 6) also interacts with PTPa to regulate apical dendrite orientation in the visual cortex
-IL15 receptor,P14784,P31785,,,TRUE,FALSE,FALSE,,FALSE,TRUE,Cytokine receptor IL2 family,FALSE,FALSE,,4gs7,TRUE,IL15;IL15RA;IL2RB;IL2RG,"The interleukin-15 receptor IL15R is a heterotrimer of IL15RA, IL2RB and IL2RG."
+IL15 receptor,P14784,Q13261,,,TRUE,FALSE,FALSE,,FALSE,TRUE,Cytokine receptor IL2 family,FALSE,FALSE,,4gs7,TRUE,IL15;IL15RA;IL2RB;IL2RG,"The interleukin-15 receptor IL15R is a heterotrimer of IL15RA, IL2RB and IL2RG."
 Activin ligand ab,P08476,P09529,,,FALSE,FALSE,TRUE,TGFb,TRUE,FALSE,,FALSE,FALSE,,,FALSE,,
 ACVR1_BMPR2,Q04771,Q13873,,,TRUE,FALSE,FALSE,,FALSE,TRUE,,FALSE,FALSE,,,FALSE,,
 ACVL1_BMPR2,P37023,Q13873,,,TRUE,FALSE,FALSE,,FALSE,TRUE,,FALSE,FALSE,,,FALSE,,
