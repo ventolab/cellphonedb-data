@@ -166,7 +166,6 @@ P01185,NEU2_HUMAN,False,False,True,Hormone,True,False,,False,,False,False,,,,,PF
 P01189,COLI_HUMAN,False,False,True,Hormone,True,False,,False,,True,False,,,,,PF00976;PF08384;PF08035;,CellPhoneDBcore<=4.0
 P01210,PENK_HUMAN,False,False,True,,False,False,,False,,False,False,,,,,PF01160;,CellPhoneDBcore<=4.0
 P01213,PDYN_HUMAN,False,False,True,,False,False,,False,,False,False,,,,,,CellPhoneDBcore<=4.0
-P01215,GLHA_HUMAN,False,False,True,Hormone,True,False,,False,,False,False,,,,,PF00236;,CellPhoneDBcore<=4.0
 P01222,TSHB_HUMAN,False,False,True,Hormone,True,False,,False,,False,False,,,,,PF00007;,CellPhoneDBcore<=4.0
 P01225,FSHB_HUMAN,False,False,True,Hormone,True,False,,False,,False,False,,,,,PF00007;,CellPhoneDBcore<=4.0
 P01229,LSHB_HUMAN,False,False,True,Hormone,True,False,,False,,False,False,,,,,PF00007;,CellPhoneDBcore<=4.0
@@ -1354,3 +1353,4 @@ Q9H598,VIAAT_HUMAN,False,False,False,,False,False,,False,Transporter,True,False,
 Q9H7M9,VISTA_HUMAN,True,False,False,,False,True,,False,,False,False,,,,,,CellPhoneDBcore4.1
 P54219,VMAT1_HUMAN,False,False,False,,False,False,,False,Amine transporter,True,False,,,,,,CellPhoneDBcore4.1
 Q05940,VMAT2_HUMAN,False,False,False,,False,False,,False,Phosphoprotein,True,False,,,,,,CellPhoneDBcore4.1
+P01215,GLHA_HUMAN,False,False,True,Hormone,True,False,,False,,False,False,,,,,,CellPhoneDBcore4.1

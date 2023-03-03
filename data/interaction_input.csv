@@ -2662,10 +2662,10 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,P23468,Q9NPH3,PTPRD_HUMAN,IL1AP_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,P23468,Q9NZN1,PTPRD_HUMAN,IRPL1_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Q15726,Q969F8,KISS1_HUMAN,KISSR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,A6NKQ9,P22888,CGB1_HUMAN,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q6NT52,P22888,CGB2_HUMAN,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P0DN86,P22888,CGB3_HUMAN,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P0DN87,P22888,CGB7_HUMAN,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,hCGB1_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
+,hCGB2_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
+,hCGB3_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
+,hCGB7_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
 ,P01229,P22888,LSHB_HUMAN,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,P23468,Q6PJG9,PTPRD_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,P10586,Q6PJG9,PTPRF_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
