@@ -2108,69 +2108,69 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,Glycine_bySHMT2_and_SLC6A5,Glycine_α2_complex,,,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glycine_bySHMT2_and_SLC6A9,Glycine_α1β_complex,,,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glycine_bySHMT2_and_SLC6A9,Glycine_α2_complex,,,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P18509,P41586,PACA_HUMAN,PACR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01282,P41586,VIP_HUMAN,PACR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P18827,Q96PE1,SDC1_HUMAN,AGRA2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P34741,Q96PE1,SDC2_HUMAN,AGRA2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,integrin_aVb3_complex,Q96PE1,,AGRA2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,O14907,O14514,TX1B3_HUMAN,AGRB1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9BZR6,O14514,RTN4R_HUMAN,AGRB1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,integrin_aVb5_complex,O14514,,AGRB1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,O14907,O60241,TX1B3_HUMAN,AGRB2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,O75973,O60242,C1QRF_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q7Z5L3,O60242,C1QL2_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q5VWW1,O60242,C1QL3_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q86Z23,O60242,C1QL4_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P04216,Q9UHX3,THY1_HUMAN,AGRE2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,integrin_aVb1_complex,Q9UHX3,,AGRE2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,integrin_aVb3_complex,Q9UHX3,,AGRE2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q92633,P48960,LPAR1_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HBW0,P48960,LPAR2_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UBY5,P48960,LPAR3_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P04216,P48960,THY1_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,integrin_aVb1_complex,P48960,,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,integrin_aVb3_complex,P48960,,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P35247,P48960,SFTPD_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P02461,Q9Y653,CO3A1_HUMAN,AGRG1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01350,Q9Y653,GAST_HUMAN,AGRG1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P21980,Q9Y653,TGM2_HUMAN,AGRG1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P02462,Q86SQ4,CO4A1_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P08572,Q86SQ4,CO4A2_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q01955,Q86SQ4,CO4A3_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P53420,Q86SQ4,CO4A4_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P29400,Q86SQ4,CO4A5_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q14031,Q86SQ4,CO4A6_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P24043,Q86SQ4,LAMA2_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,F7VJQ1,Q86SQ4,APRIO_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9NZU1,O94910,FLRT1_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,O43155,O94910,FLRT2_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,O94910,NRX1A_HUMAN,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,O94910,NRX2B_HUMAN,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,O94910,NRX3B_HUMAN,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UKZ4,O94910,TEN1_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9NT68,O94910,TEN2_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9P273,O94910,TEN3_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q6N022,O94910,TEN4_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,TENM2_FLRT1_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,TENM2_FLRT3_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,TENM4_FLRT1_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,TENM4_FLRT3_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9NZU0,O95490,FLRT3_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UKZ4,O95490,TEN1_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9NT68,O95490,TEN2_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9P273,O95490,TEN3_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q6N022,O95490,TEN4_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,TENM2_FLRT3_complex,O95490,,AGRL2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9NZU1,Q9HAR2,FLRT1_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,O43155,Q9HAR2,FLRT2_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9NZU0,Q9HAR2,FLRT3_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UKZ4,Q9HAR2,TEN1_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9NT68,Q9HAR2,TEN2_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9P273,Q9HAR2,TEN3_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q6N022,Q9HAR2,TEN4_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q6ZN44,Q9HAR2,UNC5A_HUMAN,AGRL3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,TENM3_FLRT1_complex,Q9HAR2,,AGRL3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,TENM3_FLRT3_complex,Q9HAR2,,AGRL3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,P18509,P41586,PACA_HUMAN,PACR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01282,P41586,VIP_HUMAN,PACR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P18827,Q96PE1,SDC1_HUMAN,AGRA2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P34741,Q96PE1,SDC2_HUMAN,AGRA2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,integrin_aVb3_complex,Q96PE1,,AGRA2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,O14907,O14514,TX1B3_HUMAN,AGRB1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9BZR6,O14514,RTN4R_HUMAN,AGRB1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,integrin_aVb5_complex,O14514,,AGRB1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,O14907,O60241,TX1B3_HUMAN,AGRB2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,O75973,O60242,C1QRF_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q7Z5L3,O60242,C1QL2_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q5VWW1,O60242,C1QL3_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q86Z23,O60242,C1QL4_HUMAN,AGRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P04216,Q9UHX3,THY1_HUMAN,AGRE2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,integrin_aVb1_complex,Q9UHX3,,AGRE2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,integrin_aVb3_complex,Q9UHX3,,AGRE2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q92633,P48960,LPAR1_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HBW0,P48960,LPAR2_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UBY5,P48960,LPAR3_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P04216,P48960,THY1_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,integrin_aVb1_complex,P48960,,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,integrin_aVb3_complex,P48960,,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P35247,P48960,SFTPD_HUMAN,CD97_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P02461,Q9Y653,CO3A1_HUMAN,AGRG1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01350,Q9Y653,GAST_HUMAN,AGRG1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P21980,Q9Y653,TGM2_HUMAN,AGRG1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P02462,Q86SQ4,CO4A1_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P08572,Q86SQ4,CO4A2_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q01955,Q86SQ4,CO4A3_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P53420,Q86SQ4,CO4A4_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P29400,Q86SQ4,CO4A5_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q14031,Q86SQ4,CO4A6_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P24043,Q86SQ4,LAMA2_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,F7VJQ1,Q86SQ4,APRIO_HUMAN,AGRG6_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9NZU1,O94910,FLRT1_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,O43155,O94910,FLRT2_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,O94910,NRX1A_HUMAN,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,O94910,NRX2B_HUMAN,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,O94910,NRX3B_HUMAN,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UKZ4,O94910,TEN1_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9NT68,O94910,TEN2_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9P273,O94910,TEN3_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q6N022,O94910,TEN4_HUMAN,AGRL1_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,TENM2_FLRT1_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,TENM2_FLRT3_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,TENM4_FLRT1_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,TENM4_FLRT3_complex,O94910,,AGRL1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9NZU0,O95490,FLRT3_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UKZ4,O95490,TEN1_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9NT68,O95490,TEN2_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9P273,O95490,TEN3_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q6N022,O95490,TEN4_HUMAN,AGRL2_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,TENM2_FLRT3_complex,O95490,,AGRL2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9NZU1,Q9HAR2,FLRT1_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,O43155,Q9HAR2,FLRT2_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9NZU0,Q9HAR2,FLRT3_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UKZ4,Q9HAR2,TEN1_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9NT68,Q9HAR2,TEN2_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9P273,Q9HAR2,TEN3_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q6N022,Q9HAR2,TEN4_HUMAN,AGRL3_HUMAN,curated,"PMID:29100073,PMID:31354411",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q6ZN44,Q9HAR2,UNC5A_HUMAN,AGRL3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,TENM3_FLRT1_complex,Q9HAR2,,AGRL3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,TENM3_FLRT3_complex,Q9HAR2,,AGRL3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,Adenosine_byNT5E_and_SLC29A1,P30542,,AA1R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Adenosine_byNT5E_and_SLC29A2,P30542,,AA1R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Adenosine_byNT5E_and_SLC29A3,P30542,,AA1R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2232,13 +2232,13 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,Noradrenaline_byDBH_and_SLC18A1,P13945,,ADRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Noradrenaline_byDBH_and_SLC18A2,P13945,,ADRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Noradrenaline_byDBH_and_SLC6A2,P13945,,ADRB3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01178,P37288,NEU1_HUMAN,V1AR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01178,P47901,NEU1_HUMAN,V1BR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01178,P30518,NEU1_HUMAN,V2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10092,P30988,CALCB_HUMAN,CALCR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10997,P30988,IAPP_HUMAN,CALCR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01350,P32238,GAST_HUMAN,CCKAR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q14118,Q9NYQ7,DAG1_HUMAN,CELR3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,P01178,P37288,NEU1_HUMAN,V1AR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01178,P47901,NEU1_HUMAN,V1BR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01178,P30518,NEU1_HUMAN,V2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10092,P30988,CALCB_HUMAN,CALCR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10997,P30988,IAPP_HUMAN,CALCR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01350,P32238,GAST_HUMAN,CCKAR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q14118,Q9NYQ7,DAG1_HUMAN,CELR3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,Acetylcholine_byCHAT_and_SLC10A4,P11229,,ACM1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Acetylcholine_byCHAT_and_SLC18A3,P11229,,ACM1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Acetylcholine_byCHAT_and_SLC5A7,P11229,,ACM1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2254,26 +2254,26 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,Acetylcholine_byCHAT_and_SLC10A4,P08912,,ACM5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Acetylcholine_byCHAT_and_SLC18A3,P08912,,ACM5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Acetylcholine_byCHAT_and_SLC5A7,P08912,,ACM5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,O94985,NRX1A_HUMAN,CSTN1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,O94985,NRX2B_HUMAN,CSTN1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,O94985,NRX3B_HUMAN,CSTN1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q9H4D0,NRX1A_HUMAN,CSTN2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q9H4D0,NRX2B_HUMAN,CSTN2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q9H4D0,NRX3B_HUMAN,CSTN2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q9BQT9,NRX1A_HUMAN,CSTN3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q9BQT9,NRX2B_HUMAN,CSTN3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q9BQT9,NRX3B_HUMAN,CSTN3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q96RP3,P34998,UCN2_HUMAN,CRFR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P36382,P36382,CXA5_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P17302,P36382,CXA1_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P36383,P36382,CXG1_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9Y6H8,P36382,CXA3_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P17302,P17302,CXA1_HUMAN,CXA1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P36383,P17302,CXG1_HUMAN,CXA1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9Y6H8,P17302,CXA3_HUMAN,CXA1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P36383,P36383,CXG1_HUMAN,CXG1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9Y6H8,P36383,CXA3_HUMAN,CXG1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9Y6H8,Q9Y6H8,CXA3_HUMAN,CXA3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,O94985,NRX1A_HUMAN,CSTN1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,O94985,NRX2B_HUMAN,CSTN1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,O94985,NRX3B_HUMAN,CSTN1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q9H4D0,NRX1A_HUMAN,CSTN2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q9H4D0,NRX2B_HUMAN,CSTN2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q9H4D0,NRX3B_HUMAN,CSTN2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q9BQT9,NRX1A_HUMAN,CSTN3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q9BQT9,NRX2B_HUMAN,CSTN3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q9BQT9,NRX3B_HUMAN,CSTN3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q96RP3,P34998,UCN2_HUMAN,CRFR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P36382,P36382,CXA5_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P17302,P36382,CXA1_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P36383,P36382,CXG1_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9Y6H8,P36382,CXA3_HUMAN,CXA5_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P17302,P17302,CXA1_HUMAN,CXA1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P36383,P17302,CXG1_HUMAN,CXA1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9Y6H8,P17302,CXA3_HUMAN,CXA1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P36383,P36383,CXG1_HUMAN,CXG1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9Y6H8,P36383,CXA3_HUMAN,CXG1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9Y6H8,Q9Y6H8,CXA3_HUMAN,CXA3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,LTC4_byLTC4S,Q9Y271,,CLTR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,LTD4_byGGT1,Q9Y271,,CLTR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,LTC4_byLTC4S,Q9NS75,,CLTR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2281,9 +2281,9 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,LeukotrieneE4_byDPEP1,Q9NS75,,CLTR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,LeukotrieneE4_byDPEP2,Q9NS75,,CLTR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,LeukotrieneE4_byDPEP3,Q9NS75,,CLTR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q14118,NRX1A_HUMAN,DAG1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q14118,NRX2B_HUMAN,DAG1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q14118,NRX3B_HUMAN,DAG1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q14118,NRX1A_HUMAN,DAG1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q14118,NRX2B_HUMAN,DAG1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q14118,NRX3B_HUMAN,DAG1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
 ,Dopamine_byDDC_and_SLC18A1,P21728,,DRD1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Dopamine_byDDC_and_SLC18A2,P21728,,DRD1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Dopamine_byDDC_and_SLC6A3,P21728,,DRD1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2299,15 +2299,15 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,Dopamine_byDDC_and_SLC18A1,P21918,,DRD5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Dopamine_byDDC_and_SLC18A2,P21918,,DRD5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Dopamine_byDDC_and_SLC6A3,P21918,,DRD5_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P05305,P25101,EDN1_HUMAN,EDNRA_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P20800,P25101,EDN2_HUMAN,EDNRA_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P14138,P25101,EDN3_HUMAN,EDNRA_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P05305,P24530,EDN1_HUMAN,EDNRB_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P20800,P24530,EDN2_HUMAN,EDNRB_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P14138,P24530,EDN3_HUMAN,EDNRB_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P04083,P21462,ANXA1_HUMAN,FPR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P08311,P21462,CATG_HUMAN,FPR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01225,P23945,FSHB_HUMAN,FSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,P05305,P25101,EDN1_HUMAN,EDNRA_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P20800,P25101,EDN2_HUMAN,EDNRA_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P14138,P25101,EDN3_HUMAN,EDNRA_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P05305,P24530,EDN1_HUMAN,EDNRB_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P20800,P24530,EDN2_HUMAN,EDNRB_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P14138,P24530,EDN3_HUMAN,EDNRB_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P04083,P21462,ANXA1_HUMAN,FPR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P08311,P21462,CATG_HUMAN,FPR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01225,P23945,FSHB_HUMAN,FSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,GABA_byGAD1_and_SLC32A1,Q9UBS5,,GABR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,GABA_byGAD1_and_SLC6A1,Q9UBS5,,GABR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,GABA_byGAD1_and_SLC6A11,Q9UBS5,,GABR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2336,15 +2336,15 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,GABA_byGAD2_and_SLC6A13,O75899,,GABR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,GABA_byGAD2_and_SLC6A6,O75899,,GABR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,GABA_byGAD2_and_SLC6A8,O75899,,GABR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P22466,P47211,GALA_HUMAN,GALR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UBC7,P47211,GALP_HUMAN,GALR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P22466,O43603,GALA_HUMAN,GALR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UBC7,O43603,GALP_HUMAN,GALR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P22466,O60755,GALA_HUMAN,GALR3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UBC7,O60755,GALP_HUMAN,GALR3_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UBU3,Q92847,GHRL_HUMAN,GHSR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01210,Q92847,PENK_HUMAN,GHSR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UBU3,O43194,GHRL_HUMAN,GPR39_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
+,P22466,P47211,GALA_HUMAN,GALR1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UBC7,P47211,GALP_HUMAN,GALR1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P22466,O43603,GALA_HUMAN,GALR2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UBC7,O43603,GALP_HUMAN,GALR2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P22466,O60755,GALA_HUMAN,GALR3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UBC7,O60755,GALP_HUMAN,GALR3_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UBU3,Q92847,GHRL_HUMAN,GHSR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01210,Q92847,PENK_HUMAN,GHSR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UBU3,O43194,GHRL_HUMAN,GPR39_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A6,P42261,,GRIA1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A7,P42261,,GRIA1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A8,P42261,,GRIA1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2409,7 +2409,7 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,Glutamate_byGLS2_and_SLC1A3,P48058,,GRIA4_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS2_and_SLC1A6,P48058,,GRIA4_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS2_and_SLC1A7,P48058,,GRIA4_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,NRXN1_CBLN1_complex,O43424,,GRID2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,NRXN1_CBLN1_complex,O43424,,GRID2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A6,P39086,,GRIK1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A7,P39086,,GRIK1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A8,P39086,,GRIK1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2586,7 +2586,7 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,Glutamate_byGLS2_and_SLC1A3,O00222,,GRM8_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS2_and_SLC1A6,O00222,,GRM8_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS2_and_SLC1A7,O00222,,GRM8_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P08949,P30550,NMB_HUMAN,GRPR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
+,P08949,P30550,NMB_HUMAN,GRPR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
 ,5-HT_byTPH1_and_SLC18A1,P08908,,5HT1A_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,5-HT_byTPH1_and_SLC18A2,P08908,,5HT1A_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,5-HT_byTPH1_and_SLC6A4,P08908,,5HT1A_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
@@ -2659,109 +2659,109 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,5-HT_byTPH2_and_SLC18A1,P34969,,5HT7R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,5-HT_byTPH2_and_SLC18A2,P34969,,5HT7R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,5-HT_byTPH2_and_SLC6A4,P34969,,5HT7R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q9NPH3,PTPRD_HUMAN,IL1AP_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q9NZN1,PTPRD_HUMAN,IRPL1_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q15726,Q969F8,KISS1_HUMAN,KISSR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q9NPH3,PTPRD_HUMAN,IL1AP_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q9NZN1,PTPRD_HUMAN,IRPL1_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q15726,Q969F8,KISS1_HUMAN,KISSR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,hCGB1_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
 ,hCGB2_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
 ,hCGB3_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
 ,hCGB7_complex,P22888,,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,KTroule,,,,,,CellPhoneDBcore4.1
-,P01229,P22888,LSHB_HUMAN,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q6PJG9,PTPRD_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10586,Q6PJG9,PTPRF_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q6PJG9,PTPRS_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q96NI6,PTPRD_HUMAN,LRFN5_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10586,Q96NI6,PTPRF_HUMAN,LRFN5_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q96NI6,PTPRS_HUMAN,LRFN5_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q9NT99,PTPRD_HUMAN,LRC4B_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10586,Q9NT99,PTPRF_HUMAN,LRC4B_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q9NT99,PTPRS_HUMAN,LRC4B_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10586,Q9HCJ2,PTPRF_HUMAN,LRC4C_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q86UE6,NRX1A_HUMAN,LRRT1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q86UE6,NRX2B_HUMAN,LRRT1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q86UE6,NRX3B_HUMAN,LRRT1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,O43300,NRX1A_HUMAN,LRRT2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,O43300,NRX2B_HUMAN,LRRT2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,O43300,NRX3B_HUMAN,LRRT2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q86VH5,NRX1A_HUMAN,LRRT3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q86VH5,NRX2B_HUMAN,LRRT3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q86VH5,NRX3B_HUMAN,LRRT3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q86VH4,NRX1A_HUMAN,LRRT4_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q86VH4,NRX2B_HUMAN,LRRT4_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q86VH4,NRX3B_HUMAN,LRRT4_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q86VH4,PTPRS_HUMAN,LRRT4_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,O00253,Q01718,AGRP_HUMAN,ACTHR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,O00253,P33032,AGRP_HUMAN,MC5R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q8N2Q7,NRX1A_HUMAN,NLGN1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q8N2Q7,NRX2B_HUMAN,NLGN1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q8N2Q7,NRX3B_HUMAN,NLGN1_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q8NFZ4,NRX1A_HUMAN,NLGN2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q8NFZ4,NRX2B_HUMAN,NLGN2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q8NFZ4,NRX3B_HUMAN,NLGN2_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q9NZ94,NRX1A_HUMAN,NLGN3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q9NZ94,NRX2B_HUMAN,NLGN3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q9NZ94,NRX3B_HUMAN,NLGN3_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q9NZ94,PTPRD_HUMAN,NLGN3_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q8N0W4,NRX1A_HUMAN,NLGNX_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q8N0W4,NRX2B_HUMAN,NLGNX_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q8N0W4,NRX3B_HUMAN,NLGNX_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9ULB1,Q8NFZ3,NRX1A_HUMAN,NLGNY_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P58401,Q8NFZ3,NRX2B_HUMAN,NLGNY_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9HDB5,Q8NFZ3,NRX3B_HUMAN,NLGNY_HUMAN,curated,PMID:29100073,False,JCranley,,,,,,CellPhoneDBcore4.1
-,P07492,P28336,GRP_HUMAN,NMBR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q5H8A3,Q9HB89,NMS_HUMAN,NMUR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q5H8A3,Q9GZQ4,NMS_HUMAN,NMUR2_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,O15130,Q9GZQ6,NPFF_HUMAN,NPFF1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,O15130,Q9Y5X5,NPFF_HUMAN,NPFF2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01303,P25929,NPY_HUMAN,NPY1R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10082,P25929,PYY_HUMAN,NPY1R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01298,P25929,PAHO_HUMAN,NPY1R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01303,P49146,NPY_HUMAN,NPY2R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10082,P49146,PYY_HUMAN,NPY2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01298,P49146,PAHO_HUMAN,NPY2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01303,P50391,NPY_HUMAN,NPY4R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10082,P50391,PYY_HUMAN,NPY4R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01298,P50391,PAHO_HUMAN,NPY4R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01303,Q15761,NPY_HUMAN,NPY5R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P10082,Q15761,PYY_HUMAN,NPY5R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01298,Q15761,PAHO_HUMAN,NPY5R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P30990,P30989,NEUT_HUMAN,NTR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P30990,O95665,NEUT_HUMAN,NTR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,P01229,P22888,LSHB_HUMAN,LSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q6PJG9,PTPRD_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10586,Q6PJG9,PTPRF_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q6PJG9,PTPRS_HUMAN,LRFN4_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q96NI6,PTPRD_HUMAN,LRFN5_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10586,Q96NI6,PTPRF_HUMAN,LRFN5_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q96NI6,PTPRS_HUMAN,LRFN5_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q9NT99,PTPRD_HUMAN,LRC4B_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10586,Q9NT99,PTPRF_HUMAN,LRC4B_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q9NT99,PTPRS_HUMAN,LRC4B_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10586,Q9HCJ2,PTPRF_HUMAN,LRC4C_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q86UE6,NRX1A_HUMAN,LRRT1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q86UE6,NRX2B_HUMAN,LRRT1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q86UE6,NRX3B_HUMAN,LRRT1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,O43300,NRX1A_HUMAN,LRRT2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,O43300,NRX2B_HUMAN,LRRT2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,O43300,NRX3B_HUMAN,LRRT2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q86VH5,NRX1A_HUMAN,LRRT3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q86VH5,NRX2B_HUMAN,LRRT3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q86VH5,NRX3B_HUMAN,LRRT3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q86VH4,NRX1A_HUMAN,LRRT4_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q86VH4,NRX2B_HUMAN,LRRT4_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q86VH4,NRX3B_HUMAN,LRRT4_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q86VH4,PTPRS_HUMAN,LRRT4_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,O00253,Q01718,AGRP_HUMAN,ACTHR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,O00253,P33032,AGRP_HUMAN,MC5R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q8N2Q7,NRX1A_HUMAN,NLGN1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q8N2Q7,NRX2B_HUMAN,NLGN1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q8N2Q7,NRX3B_HUMAN,NLGN1_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q8NFZ4,NRX1A_HUMAN,NLGN2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q8NFZ4,NRX2B_HUMAN,NLGN2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q8NFZ4,NRX3B_HUMAN,NLGN2_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q9NZ94,NRX1A_HUMAN,NLGN3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q9NZ94,NRX2B_HUMAN,NLGN3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q9NZ94,NRX3B_HUMAN,NLGN3_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q9NZ94,PTPRD_HUMAN,NLGN3_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q8N0W4,NRX1A_HUMAN,NLGNX_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q8N0W4,NRX2B_HUMAN,NLGNX_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q8N0W4,NRX3B_HUMAN,NLGNX_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9ULB1,Q8NFZ3,NRX1A_HUMAN,NLGNY_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P58401,Q8NFZ3,NRX2B_HUMAN,NLGNY_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9HDB5,Q8NFZ3,NRX3B_HUMAN,NLGNY_HUMAN,curated,PMID:29100073,True,JCranley,,,,,,CellPhoneDBcore4.1
+,P07492,P28336,GRP_HUMAN,NMBR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q5H8A3,Q9HB89,NMS_HUMAN,NMUR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q5H8A3,Q9GZQ4,NMS_HUMAN,NMUR2_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,O15130,Q9GZQ6,NPFF_HUMAN,NPFF1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,O15130,Q9Y5X5,NPFF_HUMAN,NPFF2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01303,P25929,NPY_HUMAN,NPY1R_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10082,P25929,PYY_HUMAN,NPY1R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01298,P25929,PAHO_HUMAN,NPY1R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01303,P49146,NPY_HUMAN,NPY2R_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10082,P49146,PYY_HUMAN,NPY2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01298,P49146,PAHO_HUMAN,NPY2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01303,P50391,NPY_HUMAN,NPY4R_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10082,P50391,PYY_HUMAN,NPY4R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01298,P50391,PAHO_HUMAN,NPY4R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01303,Q15761,NPY_HUMAN,NPY5R_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P10082,Q15761,PYY_HUMAN,NPY5R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01298,Q15761,PAHO_HUMAN,NPY5R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P30990,P30989,NEUT_HUMAN,NTR1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P30990,O95665,NEUT_HUMAN,NTR2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,b-Endorphin_byPOMC,P41143,,OPRD_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
 ,b-Endorphin_byPOMC,P35372,,OPRM_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
 ,b-Endorphin_byPOMC,P41145,,OPRK_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01185,P30559,NEU2_HUMAN,OXYR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P00734,P25116,THRB_HUMAN,PAR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P00734,O00254,THRB_HUMAN,PAR3_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P00734,Q96RI0,THRB_HUMAN,PAR4_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P08311,Q96RI0,CATG_HUMAN,PAR4_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P12272,P49683,PTHR_HUMAN,PRLHR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01303,P49683,NPY_HUMAN,PRLHR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
+,P01185,P30559,NEU2_HUMAN,OXYR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P00734,P25116,THRB_HUMAN,PAR1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P00734,O00254,THRB_HUMAN,PAR3_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P00734,Q96RI0,THRB_HUMAN,PAR4_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P08311,Q96RI0,CATG_HUMAN,PAR4_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P12272,P49683,PTHR_HUMAN,PRLHR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01303,P49683,NPY_HUMAN,PRLHR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
 ,PGD2_byPTGDS,Q13258,,PD2R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,PGD2_byPTGDS,Q9Y5Y4,,PD2R2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,ProstaglandinD2_byAKR1C3,P43088,,PF2R_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P83859,Q96P65,OX26_HUMAN,QRFPR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P04808,Q9HBX9,REL1_HUMAN,RXFP1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P04808,Q8WXD0,REL1_HUMAN,RXFP2_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P04808,Q9NSD7,REL1_HUMAN,RL3R1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P04090,Q9NSD7,REL2_HUMAN,RL3R1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01282,P47872,VIP_HUMAN,SCTR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q96PX8,PTPRD_HUMAN,SLIK1_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q96PX8,PTPRS_HUMAN,SLIK1_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,Q9H156,PTPRD_HUMAN,SLIK2_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q9H156,PTPRS_HUMAN,SLIK2_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P23468,O94933,PTPRD_HUMAN,SLIK3_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q8IW52,PTPRS_HUMAN,SLIK4_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,O94991,PTPRS_HUMAN,SLIK5_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q13332,Q9H5Y7,PTPRS_HUMAN,SLIK6_HUMAN,curated,"PMID:29100073,PMID:34966732",False,JCranley,,,,,,CellPhoneDBcore4.1
+,P83859,Q96P65,OX26_HUMAN,QRFPR_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P04808,Q9HBX9,REL1_HUMAN,RXFP1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P04808,Q8WXD0,REL1_HUMAN,RXFP2_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P04808,Q9NSD7,REL1_HUMAN,RL3R1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P04090,Q9NSD7,REL2_HUMAN,RL3R1_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01282,P47872,VIP_HUMAN,SCTR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q96PX8,PTPRD_HUMAN,SLIK1_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q96PX8,PTPRS_HUMAN,SLIK1_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,Q9H156,PTPRD_HUMAN,SLIK2_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q9H156,PTPRS_HUMAN,SLIK2_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P23468,O94933,PTPRD_HUMAN,SLIK3_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q8IW52,PTPRS_HUMAN,SLIK4_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,O94991,PTPRS_HUMAN,SLIK5_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q13332,Q9H5Y7,PTPRS_HUMAN,SLIK6_HUMAN,curated,"PMID:29100073,PMID:34966732",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,b-PEA_byDDC,Q96RJ0,,TAAR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UHF0,P25103,TKNK_HUMAN,NK1R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,Q9UHF0,P21452,TKNK_HUMAN,NK2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P20366,P29371,TKN1_HUMAN,NK3R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),False,JCranley,,,,,,CellPhoneDBcore4.1
-,P01222,P16473,TSHB_HUMAN,TSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P18509,P32241,PACA_HUMAN,VIPR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P09683,P32241,SECR_HUMAN,VIPR1_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
-,P09683,P41587,SECR_HUMAN,VIPR2_HUMAN,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UHF0,P25103,TKNK_HUMAN,NK1R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,Q9UHF0,P21452,TKNK_HUMAN,NK2R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P20366,P29371,TKN1_HUMAN,NK3R_HUMAN,curated,GPCRdb (https://gpcrdb.org/ligand/endogenousbrowser/),True,JCranley,,,,,,CellPhoneDBcore4.1
+,P01222,P16473,TSHB_HUMAN,TSHR_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P18509,P32241,PACA_HUMAN,VIPR1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P09683,P32241,SECR_HUMAN,VIPR1_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
+,P09683,P41587,SECR_HUMAN,VIPR2_HUMAN,curated,"uniprot, reactome, IUPHAR",True,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A6,Glutamate_Kainate_1_4_complex,,,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A6,Glutamate_Kainate_2_4_complex,,,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
 ,Glutamate_byGLS_and_SLC17A6,Glutamate_Kainate_3_4_complex,,,curated,"uniprot, reactome, IUPHAR",False,JCranley,,,,,,CellPhoneDBcore4.1
