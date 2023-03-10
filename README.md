@@ -1,11 +1,11 @@
 # CellphoneDB database 
 
-CellphoneDB database (aka cellphonedb-data )is a **manually curated** repository of receptors, ligands and their interactions. 
+CellphoneDB database (aka cellphonedb-data) is a **manually curated** repository of receptors, ligands and their interactions. 
 
 The database can be used to search for a particular ligand/receptor or, in combination with the [CellphoneDB tool](https://github.com/ventolab/cellphonedb),
 to interrogate your own single-cell transcriptomics data.
 
-For more information, visit https://www.cellphonedb.org/
+For more information, visit https://www.cellphonedb.org/ or [our extended documentation](https://github.com/ventolab/CellphoneDB/blob/master/docs/RESULTS-DOCUMENTATION.md#database-of-interactions)
 
 For CellphoneDB tool, visit https://github.com/ventolab/cellphonedb
 
