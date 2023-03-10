@@ -1,0 +1,30 @@
+# CellphoneDB database 
+
+CellphoneDB database (aka cellphonedb-data )is a **manually curated** repository of receptors, ligands and their interactions. 
+
+The database can be used to search for a particular ligand/receptor or, in combination with the [CellphoneDB tool](https://github.com/ventolab/cellphonedb),
+to interrogate your own single-cell transcriptomics data.
+
+For more information, visit https://www.cellphonedb.org/
+
+For CellphoneDB tool, visit https://github.com/ventolab/cellphonedb
+
+
+## Key features of CellphoneDB
+- Subunit architecture is included for both ligands and receptors, representing **heteromeric complexes** accurately. 
+This is crucial, as cell-cell communication relies on multi-subunit protein complexes that go beyond the binary representation used in most databases and studies. 
+- Includes interactions involving **non-peptidic molecules** (i.e., not encoded by a gene) acting as ligands. Examples of these include steroid hormones (e.g., estrogen). To do so, we have reconstructed the biosynthetic pathways and used the last representative enzyme as a proxy of ligand abundance. We retrieve this information by manually reviewing and curating relevant literature and peer-reviewed pathway resources such as REACTOME. We include more than 200 interactions involving non-peptidic ligands!
+
+
+# Release notes
+
+### cellphonedb-data v4.1.0
+1) New database (v4.1.0) with more manually curated interactions, making up to a total of 2,923 interactions.
+2) Non-curated exernal databases are discarded.
+
+### cellphonedb-data v4.0.0
+1) More manually curated interactions added, with special focus on protein acting as heteromeric complexes. This version fo the database includes almost 2,000 high-confidence interactions, including heteromeric complexes! We believe modelling complexes is key to minimise false positives in the predictions.
+2) Includes interactions involving non-peptidic molecules (i.e., not encoded by a gene) acting as ligands. 
+
+### cellphonedb-data v3.0.0
+1) Updated interactions involving WNT pathway.
