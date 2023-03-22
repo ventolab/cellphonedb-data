@@ -13,7 +13,8 @@ For CellphoneDB tool, visit https://github.com/ventolab/cellphonedb
 ## Key features of CellphoneDB
 - Subunit architecture is included for both ligands and receptors, representing **heteromeric complexes** accurately. 
 This is crucial, as cell-cell communication relies on multi-subunit protein complexes that go beyond the binary representation used in most databases and studies. 
-- Includes interactions involving **non-peptidic molecules** (i.e., not encoded by a gene) acting as ligands. Examples of these include steroid hormones (e.g., estrogen). To do so, we have reconstructed the biosynthetic pathways and used the last representative enzyme as a proxy of ligand abundance. We retrieve this information by manually reviewing and curating relevant literature and peer-reviewed pathway resources such as REACTOME. We include more than 200 interactions involving non-peptidic ligands!
+
+- Includes interactions involving **non-proteins** (i.e., molecules not encoded by a gene/trasncript) acting as ligands. Examples of these include steroid hormones (e.g., estrogen), small molecules (e.g. histamine) or neurotransmitters. To do so, we have reconstructed the biosynthetic pathways and used the last representative enzyme as a proxy of ligand abundance. We retrieve this information by manually reviewing and curating relevant literature and peer-reviewed pathway resources such as REACTOME. Cellphonedb-data includes more than 200 interactions involving non-peptidic ligands! All non-protein ligands are coded as complexes in CellphoneDB. This is to allow the inclusion of all the key enzymes in their biosynthetic pathway (even if the number of enzymes n=1).
 
 
 # Release notes
