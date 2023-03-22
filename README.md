@@ -24,7 +24,7 @@ This is crucial, as cell-cell communication relies on multi-subunit protein comp
 
 ### cellphonedb-data v4.0.0
 1) More manually curated interactions added, with special focus on protein acting as heteromeric complexes. This version fo the database includes almost 2,000 high-confidence interactions, including heteromeric complexes! We believe modelling complexes is key to minimise false positives in the predictions.
-2) Includes interactions involving non-peptidic molecules (i.e., not encoded by a gene) acting as ligands. 
+2) Includes interactions involving non-proteins (i.e., not encoded by a gene) acting as ligands. 
 
 ### cellphonedb-data v3.0.0
 1) Updated interactions involving WNT pathway.
