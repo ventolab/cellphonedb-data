@@ -19,6 +19,11 @@ This is crucial, as cell-cell communication relies on multi-subunit protein comp
 
 # Release notes
 
+### cellphonedb-data v5.0.0
+1) New database (v5.0.0) with more manually curated interactions, making up to a total of 2,912 interactions.
+2) Includes a new module (CellSign) containing Receptor-to-TF relationships retrieved by manual revision of the literature and are restricted to transcription factors with high specificity for an upstream receptor. CellSign database contains a total of 211 highly-specific direct receptor-to-TF relationships. CellSign uses TF activation as a downstream sensor for receptor activation upon cell-cell interaction, thus adding an extra layer of evidence to the likelihood of the cell-cell interaction.
+3) New annotations of interactions as a result of manual curation, including: interactors, classification, directionality and modulatory effect.
+
 ### cellphonedb-data v4.1.0
 1) New database (v4.1.0) with more manually curated interactions, making up to a total of 2,923 interactions.
 2) Non-curated exernal databases are discarded.
