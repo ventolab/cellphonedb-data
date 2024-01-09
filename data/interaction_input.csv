@@ -2561,8 +2561,8 @@ id_cp_interaction,partner_a,partner_b,protein_name_a,protein_name_b,annotation_s
 ,Q9BQT9,P58401,CSTN3_HUMAN,NRX2B_HUMAN,curated,PMID:29100073,TRUE,JCranley,,,,,,CellPhoneDBcore4.1,CLSTN3-NRXN2,Signaling by Calsyntenin,Ligand-Receptor,,Cell-Cell Contact,FALSE
 ,Q9BQT9,Q9HDB5,CSTN3_HUMAN,NRX3B_HUMAN,curated,PMID:29100073,TRUE,JCranley,,,,,,CellPhoneDBcore4.1,CLSTN3-NRXN3,Signaling by Calsyntenin,Ligand-Receptor,,Cell-Cell Contact,FALSE
 ,Q9BQT9,Q9ULB1,CSTN3_HUMAN,NRX1A_HUMAN,curated,PMID:29100073,TRUE,JCranley,,,,,,CellPhoneDBcore4.1,CLSTN3-NRXN1,Signaling by Calsyntenin,Ligand-Receptor,,Cell-Cell Contact,FALSE
-,Q9BT56,GALR2,SPXN_HUMAN,,curated,uniprot,TRUE,LGarciaAlonso,,,,,,CellPhoneDBcore<=4.1,SPX-GALR2+GPR151,Signaling by Spexin precursor,Ligand-Receptor,,Secreted Signaling,FALSE
-,Q9BT56,GALR3,SPXN_HUMAN,,curated,uniprot,TRUE,LGarciaAlonso,,,,,,CellPhoneDBcore<=4.1,SPX-GALR3+GPR151,Signaling by Spexin precursor,Ligand-Receptor,,Secreted Signaling,FALSE
+,Q9BT56,GALR2_byGPR151,SPXN_HUMAN,,curated,uniprot,TRUE,LGarciaAlonso,,,,,,CellPhoneDBcore<=4.1,SPX-GALR2+GPR151,Signaling by Spexin precursor,Ligand-Receptor,,Secreted Signaling,FALSE
+,Q9BT56,GALR3_byGPR151,SPXN_HUMAN,,curated,uniprot,TRUE,LGarciaAlonso,,,,,,CellPhoneDBcore<=4.1,SPX-GALR3+GPR151,Signaling by Spexin precursor,Ligand-Receptor,,Secreted Signaling,FALSE
 ,Q9BX67,Q9BX67,JAM3_HUMAN,JAM3_HUMAN,curated,PMID:16118203,TRUE,RVentoTormo,,,,,,CellPhoneDBcore<=4.1,JAM3-JAM3,Adhesion by JAM,Adhesion-Adhesion,,Cell-Cell Contact,FALSE
 ,Q9BX67,integrin_aMb2_complex,JAM3_HUMAN,,curated,PMID:16118203;PMC2194005,TRUE,RVentoTormo,,,,,,CellPhoneDBcore<=4.1,JAM3-ITGAM+ITGB2,Adhesion by JAM,Adhesion-Adhesion,,Cell-Cell Contact,FALSE
 ,Q9BXY4,O75473,RSPO3_HUMAN,LGR5_HUMAN,curated,PMID:24532711,TRUE,RVentoTormo,,,,,WNT agonist,CellPhoneDBcore<=4.1,RSPO3-LGR5,Signaling by R-spondin,Ligand-Receptor,,Secreted Signaling,FALSE
